@@ -1,5 +1,5 @@
 import React from 'react'
-import coursesData from '../../coursesData/CoursesData'
+import coursesData from '../../data/coursesData/CoursesData'
 
 function TopCourses() {
     const topproduct=coursesData.slice(0,3);

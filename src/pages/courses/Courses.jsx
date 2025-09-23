@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from '../../components/layout/Layout'
-import coursesData from '../../coursesData/CoursesData'
+import coursesData from '../../data/coursesData/CoursesData'
 
 function Courses() {
   
