@@ -11,7 +11,7 @@ function Courses() {
             <h1 className='text-2xl md:text-3xl font-semibold  flex justify-center py-12 md:py-14'>All Premium Courses Here</h1>
             
             <div className="cards">
-                <div className="items grid grid-cols-1 md:grid-cols-3 gap-6  ">
+                <div className="items grid gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4  ">
                     {
                         coursesData.map((item,index)=>{
                            return <div key={index} className="div bg-black/80 pb-3 rounded-md shadow-md m-1 ">

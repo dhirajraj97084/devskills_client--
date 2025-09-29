@@ -5,7 +5,7 @@ import Layout from "../../components/layout/Layout";
 function Tutorials() {
   return (
     <Layout>
-      <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 p-6 bg-gray-800">
+      <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 p-6 bg-gray-800">
         {tutorialsData.map((item, index) => (
           <div
             key={index}
