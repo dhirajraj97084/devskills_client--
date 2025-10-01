@@ -11,6 +11,7 @@ import Courses from './pages/courses/Courses'
 import Blogs from './pages/blogs/Blogs'
 import Notes from './pages/notes/Notes'
 
+
 function App() {
   return (
     <div>

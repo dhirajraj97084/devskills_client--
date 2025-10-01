@@ -10,7 +10,7 @@ export default function Navbar() {
     { name: "Home", path: "/" },
     { name: "Courses", path: "/courses" },
     { name: "Tutorials", path: "/tutorials" },
-    { name: "Blogs", path: "/blog" },
+    { name: "Blogs", path: "/blogs" },
     { name: "Notes", path: "/notes" },
     { name: "Contact", path: "/contact" },
     
